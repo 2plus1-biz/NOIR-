@@ -1,0 +1,4 @@
+# Static one-page site: nothing to build, publish the repo root as-is.
+[build]
+  command = "echo 'static site, no build step'"
+  publish = "."
