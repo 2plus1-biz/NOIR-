@@ -1,6 +1,0 @@
-{
-  "name": "Nocturne Essence",
-  "description": "An enigmatic dark luxury niche perfumery experience featuring chiaroscuro flacons, olfactive note pyramids, bespoke private formulations, and ambient sensory soundscapes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
